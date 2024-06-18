@@ -171,6 +171,3 @@ def generate_summary(prompt):
     return llm(prompt)
 ```
 - Generates a summary using the preloaded model.
-
-
-This README provides a comprehensive overview of the Summarizer API, including installation instructions, usage examples, and a detailed explanation of the code. Replace placeholder values with your actual information before publishing.
