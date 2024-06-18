@@ -1,0 +1,6 @@
+ctransformer
+flask
+flask-httpauth
+werkzeug
+torch
+gunicorn
