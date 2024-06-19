@@ -35,7 +35,7 @@ users = {
 }
 ```
 
-### Model Setup
+### Model Setup:
 Ensure you have the correct model name and path in the configuration:
 ```python
 model_name = 'TheBloke/Mistral-7B-Instruct-v0.1-GGUF'
